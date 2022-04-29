@@ -41,7 +41,7 @@ To play the game, follow the steps:
 - After this you should be able to make bets using the ```makeBet``` function, in the deployment pane itself
 
 - Make sure the ```makeBet(bet, amount)``` function values in the input field are separated by a comma, __bets__ value should be an integer either 0 or 1 (representing heads or tales respectively) and __amount__ should be a non-zero integer between 0 and 100 (including 100).
-- After making the bet (by pressing on the orange makeBet button, and confirming the transaction pop up on your MetaMask), you may click on the ```rewardBets()``` function (confirm the MetaMask pop up) to know if you won the bet and your final available balance.
+- After making the bet (by pressing on the orange makeBet button, and confirming the transaction pop up on your MetaMask), you may click on the ```rewardBets()``` function (confirm the MetaMask pop up) to know if you won the bet and your final available balance. The result (final balance) can be checked by seeing the log of the reward transaction.
 
 __NOTE:__ After evaluation of your bet, your balance will be set to zero again, before you make the second bet.
 
