@@ -16,7 +16,7 @@ After evaluation is completed an event is emitted that displays the user's addre
 
 ## Deployment
 
-To deploy this project
+To play the game, follow the steps:
 - Login to your MetaMask and make sure you are on the Harmony test network.
 
  _After setting up, your MetaMask wallet should look something like this_
