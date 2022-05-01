@@ -30,7 +30,7 @@ To play the game, follow the steps:
 - Copy the following testnet deployment address (contract adress)
 
 ```bash
-  0xdf60ad6c4d1df27ec4c797fb5cc9fc24c1180a8e
+0xdf60ad6c4d1df27ec4c797fb5cc9fc24c1180a8e
 ```
 - Paste this address in the Remix deployment pane in the __At Address__ field.
 
